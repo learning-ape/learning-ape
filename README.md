@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+## Virtues
+> ***Truth** is costly, complicated, and even sometimes painful/unattractive* &nbsp;&nbsp;&nbsp;— Yuval Noah Harari
+
+> [Coding is political](https://ehmatthes.github.io/pcc_2e/): *With great **Power** comes great **Responsibility***
+
 
 ## Repos Naming Convention
 
